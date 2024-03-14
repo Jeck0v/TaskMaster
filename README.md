@@ -12,3 +12,9 @@ Nous devions réaliser le design d'une solution digitale qui permettrait au clie
 - Création de tableaux permettant d'incorporer des tâches assignées à un ou plusieurs employés
 - Ranger l'ordre de priorité des tâches, et en créer d'autres différents de ceux déjà proposés
 - Visualisation de l'emploi du temps avec les tâches à réaliser
+
+
+## 🙇 Auteurs
+#### Arnaud Fischer & Maxime Bidan
+- Github Arnaud: [@Jeck0v](https://github.com/Jeck0v)
+- Github Maxime: [@sOomaxime](https://github.com/Oomaxime)
