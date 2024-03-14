@@ -18,3 +18,7 @@ Nous devions réaliser le design d'une solution digitale qui permettrait au clie
 #### Arnaud Fischer & Maxime Bidan
 - Github Arnaud: [@Jeck0v](https://github.com/Jeck0v)
 - Github Maxime: [@sOomaxime](https://github.com/Oomaxime)
+
+## ❤️ Support  
+Une simple étoile vers le repo de ce projet suffit à me motiver sur ce projet pendant des jours. Si le projet vous plait n'hésiter pas !
+
